@@ -42,3 +42,4 @@ describe("Sistema de Escola Online", () => {
     expect(aluno.notas[0].valor).toBe(9);
   });
 });
+
